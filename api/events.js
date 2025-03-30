@@ -40,46 +40,46 @@ module.exports = (req,res) =>{
 					epName: "Tutorial 07 - Pixel + acesso"
 				}
 			]
-			},
-			//NLW2
-			{
-				id: 2,
-				eventName: "Next Level Week #2",
-				bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw2.jpg?raw=true",
-				redirectURL: "/eventos/next-level-week-2",
-				eps: [
-					{
-						epURL: "N_Gp83nwR2w",
-						epName: "Aula 01 - Acelerando sua evolução"
-				},
-					{
-						epURL: "ff2W0baASXA",
-						epName: "Aula 02 - Olhando para as oportunidades"
-				},
-					{
-						epURL: "o8nFAiEM10Q",
-						epName: "Aula 03 - A escolha da stack"
-				},
-					{
-						epURL: "dlkIhtyiJnE",
-						epName: "Aula 04 - Até 2 anos em 2 meses"
-				},
-					{
-						epURL: "kuGEcBZd9D0",
-						epName: "Aula 05 - A milha extra"
-				}
-				],
-				complementaryMaterial: [
-					{
-						downloadURL: "https://drive.google.com/u/0/uc?id=1QzHR42CdDIoVuUmTjyzZYAllatUKhHDx&export=download"
-					},
-					{
-						repositoryGIT: "https://github.com/rocketseat-education/nlw-02-discovery"
-					},
-					{
-						figma: "https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web"
-					}
-				]
+			// },
+			// //NLW2
+			// {
+			// 	id: 2,
+			// 	eventName: "Next Level Week #2",
+			// 	bannerURL: "https://github.com/joseliosamy/api-todeveloper/blob/main/images/nlw2.jpg?raw=true",
+			// 	redirectURL: "/eventos/next-level-week-2",
+			// 	eps: [
+			// 		{
+			// 			epURL: "N_Gp83nwR2w",
+			// 			epName: "Aula 01 - Acelerando sua evolução"
+			// 	},
+			// 		{
+			// 			epURL: "ff2W0baASXA",
+			// 			epName: "Aula 02 - Olhando para as oportunidades"
+			// 	},
+			// 		{
+			// 			epURL: "o8nFAiEM10Q",
+			// 			epName: "Aula 03 - A escolha da stack"
+			// 	},
+			// 		{
+			// 			epURL: "dlkIhtyiJnE",
+			// 			epName: "Aula 04 - Até 2 anos em 2 meses"
+			// 	},
+			// 		{
+			// 			epURL: "kuGEcBZd9D0",
+			// 			epName: "Aula 05 - A milha extra"
+			// 	}
+			// 	],
+			// 	complementaryMaterial: [
+			// 		{
+			// 			downloadURL: "https://drive.google.com/u/0/uc?id=1QzHR42CdDIoVuUmTjyzZYAllatUKhHDx&export=download"
+			// 		},
+			// 		{
+			// 			repositoryGIT: "https://github.com/rocketseat-education/nlw-02-discovery"
+			// 		},
+			// 		{
+			// 			figma: "https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web"
+			// 		}
+			// 	]
 			}
 			
 		]);
