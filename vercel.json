@@ -17,7 +17,7 @@
 			  "destination": "/api/home.js"
 		  },
 		  {
-			  "source": "/events",
+			  "source": "/conteudo-cliente",
 			  "destination": "/api/events.js"
 		  }
 	  ]
