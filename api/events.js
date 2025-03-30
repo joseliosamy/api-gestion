@@ -46,7 +46,7 @@ module.exports = (req,res) =>{
 				id: 2,
 				eventName: "Cliente 2 - Liberando acessos no Meta Ads",
 				bannerURL: "https://github.com/joseliosamy/api-gestion/blob/main/images/meta.jpg?raw=true",
-				redirectURL: "/conteudo-cliente/liberando-acessos-meta-ads",
+				redirectURL: "/conteudo-cliente/liberando-acessos-meta-ads-2",
 				eps: [
 					{
 						epURL: "2ke0uNppt8c",
